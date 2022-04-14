@@ -1,0 +1,20 @@
+div{
+    padding-top: 30px;
+    position: relative;
+    display: inline-block;
+    left: 43%;
+}
+#bulb {
+    display: inline-block;
+    width: 200px;
+}
+#btn {
+    position: relative;
+    left: 28%;
+    font-size: larger;
+    display: inline-block;
+    background-color: antiquewhite;
+}
+body{
+    
+}
